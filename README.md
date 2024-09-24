@@ -14,6 +14,10 @@ Aplicación Java para la conversión de monedas usando Exchange Rate API
 - [x] Control de opción inconrrecta
 
 
+## Tecnologías utilizadas
+* Java 17
+* Librería GSON
+
 
 ![Static Badge](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
 <br>
