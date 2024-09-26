@@ -32,3 +32,5 @@ En esta fase, nos sumergiremos en la configuración del entorno de desarrollo Ja
 ![Static Badge](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
 <br>
 ![Static Badge gson](https://img.shields.io/badge/gson-white?style=for-the-badge&logo=cbc&logoColor=white&labelColor=%23FF2E63)
+<br>
+![Badge-Conversor](https://github.com/user-attachments/assets/2034248f-4b86-40d9-9320-3bc45367e2fb)
